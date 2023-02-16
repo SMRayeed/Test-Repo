@@ -1,1 +1,1 @@
-
+- Click [here](https://smrayeed.github.io/univ.html) to view the table
