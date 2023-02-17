@@ -63,7 +63,8 @@ li {
 }
 
 footer {
-	background-color: #ccc;
+	background-color: #333;
+	color: #fff;
 	padding: 1.5em;
 	text-align: center;
 }
@@ -77,4 +78,20 @@ table {
 th, td {
   border: 1px solid #ddd;
   padding: 8px;
+}
+
+.back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  font-size: 2em;
+  background-color: #333;
+  color: #fff;
+  padding: 10px 15px;
+  border-radius: 10 10 10px 10px;
+  text-decoration: none;
+}
+
+.back-to-top:hover {
+  background-color: #555;
 }
